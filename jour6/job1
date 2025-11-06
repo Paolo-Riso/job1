@@ -1,0 +1,10 @@
+fruits = ["pomme","cerise","orange"]
+print (fruits[0]) 
+
+#for i in fruits:
+#    print (fruits)
+
+def l(li):
+    return(li)
+
+print(l(fruits))
